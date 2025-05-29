@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60236626185",
+    "project_id": "quickway-a812a",
+    "storage_bucket": "quickway-a812a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60236626185:android:7729626ae867b091a97bd8",
+        "android_client_info": {
+          "package_name": "com.example.quick_way"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc4KHJ1YQTa1RLMmSxOebr29HQ7cQSj4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
